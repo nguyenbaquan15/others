@@ -1,6 +1,6 @@
 # others
 1. MCU
-
+    - washing-machine
     - Smart Sensor
     - device AT command
     - SCADA system(Connect multiple MCUs)
@@ -10,7 +10,6 @@
     - MCU-AI
    
 2. OS
-    - Linux from scratch: device driver and app
     - Gateway
     - AGV Robot
     - AI
@@ -24,4 +23,3 @@
 5. Embedded AI
 
 6. Soc
-![image](https://github.com/user-attachments/assets/9762b6b0-5c37-41cd-a2b5-ec172f08bd4b)
